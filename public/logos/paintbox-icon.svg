@@ -1,0 +1,17 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern paint palette icon -->
+  <path d="M20 4C12.268 4 6 10.268 6 18C6 25.732 12.268 32 20 32C22.209 32 24.268 31.313 26 30.071V26C26 22.686 23.314 20 20 20C18.343 20 17 18.657 17 17C17 15.343 18.343 14 20 14C21.657 14 23 15.343 23 17V20C23 23.314 25.686 26 29 26H30.071C31.313 24.268 32 22.209 32 20C32 11.163 24.837 4 20 4Z" fill="url(#gradient)"/>
+  
+  <!-- Paint dots -->
+  <circle cx="16" cy="14" r="2" fill="#EF4444"/>
+  <circle cx="24" cy="12" r="1.5" fill="#F59E0B"/>
+  <circle cx="26" cy="18" r="1.5" fill="#10B981"/>
+  <circle cx="14" cy="20" r="1.5" fill="#8B5CF6"/>
+  
+  <defs>
+    <linearGradient id="gradient" x1="6" y1="4" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg>

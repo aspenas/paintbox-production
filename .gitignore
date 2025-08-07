@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env*
+*.log
+.vercel/
+.DS_Store
+*.tar.gz
+coverage/
